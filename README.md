@@ -1,4 +1,5 @@
 # Machine-Learning-Zero-to-Hero-
+You can complete Python basics from https://github.com/krishnaik06/Machine-Learning-in-90-days
 
 ML_Handbook Latest helps to understand ML basics, Classification algorithms with Maths Intution
 
