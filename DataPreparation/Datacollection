@@ -1,4 +1,4 @@
-#Data collection
+#<b>Data collection
 Collecting data for training the ML model is the basic step in the machine learning pipeline. The predictions made by ML systems can only be as good as the data on which they have been trained. Following are some of the problems that can arise in data collection:
 Inaccurate data. The collected data could be unrelated to the problem statement.
 Missing data. Sub-data could be missing. That could take the form of empty values in columns or missing images for some class of prediction.
@@ -13,3 +13,4 @@ Custom data. Agencies can create or crowdsource the data for a fee
 
 
 https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk/learning-resources/ai-ml-android-neural-processing/data-collection-pre-processing
+
